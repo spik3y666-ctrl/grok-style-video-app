@@ -1,0 +1,5 @@
+.devcontainer/
+    devcontainer.json
+    Dockerfile
+android/
+    (your Android project goes here)
